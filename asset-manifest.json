@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/QatarUMG/static/css/main.6cb44ffc.css",
+    "main.js": "/QatarUMG/static/js/main.db514ae2.js",
+    "static/js/787.e9598b82.chunk.js": "/QatarUMG/static/js/787.e9598b82.chunk.js",
+    "static/media/fondo.webp": "/QatarUMG/static/media/fondo.bab9b7899e88c06030a4.webp",
+    "index.html": "/QatarUMG/index.html",
+    "main.6cb44ffc.css.map": "/QatarUMG/static/css/main.6cb44ffc.css.map",
+    "main.db514ae2.js.map": "/QatarUMG/static/js/main.db514ae2.js.map",
+    "787.e9598b82.chunk.js.map": "/QatarUMG/static/js/787.e9598b82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cb44ffc.css",
+    "static/js/main.db514ae2.js"
+  ]
+}
